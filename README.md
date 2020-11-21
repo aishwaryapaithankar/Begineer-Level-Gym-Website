@@ -5,7 +5,7 @@ Screenshots of some of the modules:
 
 
 (purposefully hidden the faces, these are not hidden in actual website)
-![review](https://user-images.githubusercontent.com/74677763/99880742-4ce99080-2c3b-11eb-8545-654df7313f6b.jpg)
+![review](https://user-images.githubusercontent.com/74677763/99880833-d8632180-2c3b-11eb-8adc-a6fead6c0aad.jpg)
 
 
 ![about](https://user-images.githubusercontent.com/74677763/99880744-4e1abd80-2c3b-11eb-8847-a7089d40a126.jpg)
