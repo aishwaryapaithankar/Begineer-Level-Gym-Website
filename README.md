@@ -3,8 +3,6 @@ Screenshots of some of the modules:
 
 ![index](https://user-images.githubusercontent.com/74677763/99880740-4bb86380-2c3b-11eb-8209-e5c1cdaedf31.jpg)
 
-
-(purposely hidden the faces, these are not hidden in actual website)
 ![review](https://user-images.githubusercontent.com/74677763/99880833-d8632180-2c3b-11eb-8adc-a6fead6c0aad.jpg)
 
 
